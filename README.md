@@ -8,5 +8,5 @@ latihan3
 ![alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/latihan3.PNG)
 latihan4
 ![alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/latihan4.PNG)
-latihan5!
-[alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/latihan5.PNG)
+latihan5
+![alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/latihan5.PNG)
