@@ -1,3 +1,25 @@
+# Modul 1
+
+latihan1
+
+https://github.com/FirmansyahD/Praktikum1/blob/master/latihan1Modul1.PNG
+
+latihan1
+
+https://github.com/FirmansyahD/Praktikum1/blob/master/latihan2Modul1.PNG
+
+latihan1
+
+https://github.com/FirmansyahD/Praktikum1/blob/master/latihan3Modul1.PNG
+
+latihan1
+
+https://github.com/FirmansyahD/Praktikum1/blob/master/latihan4Modul1.PNG
+
+latihan1
+
+https://github.com/FirmansyahD/Praktikum1/blob/master/latihan5Modul1.PNG
+
 variabel_hasil
 
 ![alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/variabel_hasil.PNG)
