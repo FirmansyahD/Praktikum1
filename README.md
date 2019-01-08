@@ -20,6 +20,11 @@ latihan5
 
 ![alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/latihan5.PNG)
 
+variabel_hasil
+
+![alt text](https://github.com/FirmansyahD/Praktikum1/blob/master/variabel_hasil.PNG)
+
 # Modul 2
+
 
 
